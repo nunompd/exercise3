@@ -1,4 +1,4 @@
-# exercise 3 -
+# Exercise 3
 
 ### Level: Medior and Senior
 
